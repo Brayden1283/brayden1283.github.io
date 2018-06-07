@@ -1,2 +1,2 @@
 # brayden1283.github.io
-[Jumper](Game 1/index.html)
+[Jumper](Game1/index.html)
